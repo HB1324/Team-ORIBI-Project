@@ -6,7 +6,7 @@ Date Created: (02/26/2025)
 Description: Behavior module concept for ORIBI Project: Defenders of LA
 Dependencies: Python 3.12
 License: None
-FIXME- DEV Notes: Used as a concept document. Can be modified to fit use case.
+DEV Notes: Used as a concept document. Can be modified to fit use case.
 """
 
 ### Wind + Fire Direction & Intensity ###
@@ -121,5 +121,9 @@ if __name__ == "__main__":
     print(f"Fire Spread: {fire_spread}")
     print(f"Intensity: {wind_intensity}")
 
+# Desired Result
+"Wind Direction: (Direction)"
+"Fire Spread: (Direction close to Wind Direction)"
+"Intensity: (Intensity that dictates the deviation of the fire spread)"
 
 # ---------------------------------------------------------------------------------------
