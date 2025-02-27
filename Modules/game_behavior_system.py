@@ -121,5 +121,9 @@ if __name__ == "__main__":
     print(f"Fire Spread: {fire_spread}")
     print(f"Intensity: {wind_intensity}")
 
+# Desired Result
+"Wind Direction: (Direction)"
+"Fire Spread: (Direction close to Wind Direction)"
+"Intensity: (Intensity that dictates the deviation of the fire spread)"
 
 # ---------------------------------------------------------------------------------------
